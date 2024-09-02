@@ -36,6 +36,5 @@ public class NotaEscolar {
         }
         System.out.println("sistema encerrado");
         ler.close();
-        System.out.println("Alterado no VS online");
         }
 }
